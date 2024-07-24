@@ -7,5 +7,5 @@
   The user can search for any cocktail and can also filter the search by a set of pre-set filter buttons.
 </p>
 <p>
-  ✨This was made using React (first time using React!) and the Cocktails api (..).
+  ✨This was made using React (first time using React!) and The Cocktail DB api (https://www.thecocktaildb.com/api.php).
 </p>
